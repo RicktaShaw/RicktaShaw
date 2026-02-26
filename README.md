@@ -5,11 +5,11 @@
 
 I am an Engineer at Tata Consultancy Services (TCS) with 1 year of hands-on experience in developing and supporting internal enterprise tools and applications. My professional journey has enabled me to build a strong foundation in programming, web technologies, and database management systems while working in a structured enterprise environment.  
 
-<br><br>
+<br>
 
 My technical expertise includes Java, C, and Python, along with frontend technologies such as HTML, CSS, JavaScript, and Bootstrap. I am proficient in SQL, MySQL, and core DBMS concepts, enabling me to design and manage structured, data-driven solutions. I regularly use Git, GitHub, VS Code, and Eclipse to ensure efficient development workflows and version control best practices.  
 
-<br><br>
+<br>
 
 I am particularly interested in Data Analytics and Full Stack Development. Currently, I am strengthening my skills in Advanced SQL, data handling, and end-to-end web application development. I enjoy solving real-world problems, writing clean and maintainable code, and building scalable solutions aligned with business objectives. Driven by consistency, discipline, and continuous learning, I aim to grow into a versatile Full Stack Developer and Data Analyst.  
 
