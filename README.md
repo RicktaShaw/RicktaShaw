@@ -66,3 +66,8 @@ I am particularly interested in Data Analytics and Full Stack Development. Curre
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&layout=compact)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RicktaShaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RicktaShaw&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicktaShaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
